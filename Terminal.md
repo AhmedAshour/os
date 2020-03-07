@@ -1,4 +1,4 @@
-# :white_square_button: Terminal
+# :white_square_button: Terminal Cheat Sheet
 
 #### :notebook: Content:
 - [Open Terminal](#open-terminal)
