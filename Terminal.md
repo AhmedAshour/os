@@ -19,7 +19,7 @@ Changes directory and navigates through files in the system.
 
 :computer: **Usage**
 
-```shell script
+```shell
 cd /[directory]/ 
 ```
 
