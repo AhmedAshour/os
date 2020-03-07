@@ -24,7 +24,7 @@ cd /[directory]/
 ```
 
 **Examples**
-```shell script
+```shell
 cd Downloads
 cd Programs/IntelliJ/bin
 ```
@@ -32,7 +32,7 @@ cd Programs/IntelliJ/bin
 ### ".." Symbol
 
 You can use the `..` to go back one directory; or use it inside your path
-```shell script
+```shell
 // Goes back one directory
 cd ..
 
@@ -41,7 +41,7 @@ cd ../Downloads
 ``` 
 ### "~" Symbol
 The tilde `~` symbol represents the **home** directory, so you can use it from anywhere.
- ```shell script
+ ```shell
 cd ~
 
 cd ~/Downloads/
@@ -57,7 +57,7 @@ cd ~/Downloads/
 Lists all the folders and files in the current directory.
 
 :computer: **Usage**
-```shell script
+```shell
 ls
 ```
 
@@ -67,17 +67,17 @@ ls
 Prints the exact path you are currently in.
 
 :computer: **Usage**
-```shell script
+```shell
 pwd 
 ```
 ## :pushpin: File Manager Commands
 ### Open a folder from Terminal
 
-```shell script
+```shell
 nautilus /directory/directory
 ```
 or
-```shell script
+```shell
 xdg-open /directory/directory
 ```
 
