@@ -1,7 +1,7 @@
 # :white_square_button: Terminal
 
 #### :notebook: Content:
-- [Open Terminal](#OpenTerminal)
+- [Open Terminal](#Open%20Terminal)
 - **Commands**
     - [cd - Change Directory](#cd)
     - [ls - List Content](#ls)
