@@ -1,14 +1,14 @@
 # :white_square_button: Terminal
 
 #### :notebook: Content:
-- [Open Terminal](#Ubuntu)
+- [Open Terminal](#OpenTerminal)
 - **Commands**
     - [cd - Change Directory](#cd)
     - [ls - List Content](#ls)
     - [pwd - Print Working Directory](#pwd)
-    - [File Manager Commands](#File Manager Commands)
+    - [File Manager Commands](#FileManagerCommands)
 
-
+## Open Terminal
 ### Ubuntu
 To access the **Temrinal**, you can use **Ctrl**+**Alt**+**T**.
 
@@ -69,5 +69,14 @@ Prints the exact path you are currently in.
 ```shell script
 pwd 
 ```
+## :pushpin: File Manager Commands
+### Open a folder from Terminal
 
+```shell script
+nautilus /directory/directory
+```
+or
+```shell script
+xdg-open /directory/directory
+```
 
