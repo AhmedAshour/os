@@ -1,12 +1,12 @@
 # :white_square_button: Terminal
 
 #### :notebook: Content:
-- [Open Terminal](#Open%20Terminal)
+- [Open Terminal](#open-terminal)
 - **Commands**
     - [cd - Change Directory](#cd)
     - [ls - List Content](#ls)
     - [pwd - Print Working Directory](#pwd)
-    - [File Manager Commands](#FileManagerCommands)
+    - [File Manager Commands](#file-manager-commands)
 
 ## Open Terminal
 ### Ubuntu
