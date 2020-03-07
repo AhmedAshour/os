@@ -3,10 +3,10 @@
 #### :notebook: Content:
 - [Open Terminal](#open-terminal)
 - **Commands**
-    - [cd - Change Directory](#cd)
-    - [ls - List Content](#ls)
-    - [pwd - Print Working Directory](#pwd)
-    - [File Manager Commands](#file-manager-commands)
+    - [cd - Change Directory](#pushpin-cd)
+    - [ls - List Content](#pushpin-ls)
+    - [pwd - Print Working Directory](#pushpin-pwd)
+    - [File Manager Commands](#pushpin-file-manager-commands)
 
 ## Open Terminal
 ### Ubuntu
