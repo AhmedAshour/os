@@ -1,20 +1,23 @@
-# Terminal
+# :white_square_button: Terminal
 
-List of content:
+#### :notebook: Content:
 - [Open Terminal](#Ubuntu)
 - **Commands**
     - [cd - Change Directory](#cd)
+    - [ls - List Content](#ls)
+    - [pwd - Print Working Directory](#pwd)
+    - [File Manager Commands](#File Manager Commands)
 
 
 ### Ubuntu
 To access the **Temrinal**, you can use **Ctrl**+**Alt**+**T**.
 
-## cd
+## :pushpin: cd
 **change directory**
 
 Changes directory and navigates through files in the system.
 
-**Usage**
+:computer: **Usage**
 ```shell script
 cd /[directory]/ 
 ```
@@ -34,7 +37,7 @@ cd ..
 
 // Use it in your path
 cd ../Downloads 
-```
+``` 
 ### "~" Symbol
 The tilde `~` symbol represents the **home** directory, so you can use it from anywhere.
  ```shell script
@@ -43,26 +46,26 @@ cd ~
 cd ~/Downloads/
  ```
 ----
-**Notes**:
+**:warning: Take Care**:
 - It is case sensitive, so make sure to use the exact directory name.
 
 
-## ls
+## :pushpin: ls
 **list**
 
 Lists all the folders and files in the current directory.
 
-**Usage**
+:computer: **Usage**
 ```shell script
 ls
 ```
 
-## pwd
+## :pushpin: pwd
 **print working directory**
 
 Prints the exact path you are currently in.
 
-**Usage**
+:computer: **Usage**
 ```shell script
 pwd 
 ```
