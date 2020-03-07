@@ -8,9 +8,15 @@
     - [pwd - Print Working Directory](#pushpin-pwd)
     - [File Manager Commands](#pushpin-file-manager-commands)
 
+**:warning: Take Care**:
+- It is case sensitive, so make sure to use the exact command, directory, or file name.
+- If the name of the directory/file contains spaces, put the whole name between quotes `''`.
+
 ## Open Terminal
 ### Ubuntu
 To access the **Temrinal**, you can use **Ctrl**+**Alt**+**T**.
+
+----
 
 ## :pushpin: cd
 **change directory**
@@ -47,9 +53,6 @@ cd ~
 cd ~/Downloads/
  ```
 ----
-**:warning: Take Care**:
-- It is case sensitive, so make sure to use the exact directory name.
-
 
 ## :pushpin: ls
 **list**
@@ -60,6 +63,7 @@ Lists all the folders and files in the current directory.
 ```shell
 ls
 ```
+----
 
 ## :pushpin: pwd
 **print working directory**
@@ -70,6 +74,8 @@ Prints the exact path you are currently in.
 ```shell
 pwd 
 ```
+----
+
 ## :pushpin: File Manager Commands
 ### Open a folder from Terminal
 
