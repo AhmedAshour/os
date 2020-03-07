@@ -1,6 +1,4 @@
 theme: jekyll-theme-hacker
-plugins:
-  - jemoji
-  
+plugins: jemoji
 markdown: redcarpet
 extensions: [fenced_code_blocks]
