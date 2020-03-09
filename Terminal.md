@@ -4,9 +4,10 @@
 - [Open Terminal](#open-terminal)
 - **Commands**
     - [cd - Change Directory](#pushpin-cd)
-    - [ls - List Content](#pushpin-ls)
+    - [ls - List](#pushpin-ls)
     - [pwd - Print Working Directory](#pushpin-pwd)
     - [File Manager Commands](#pushpin-file-manager-commands)
+    - [mkdir - Make Directory](#pushpin-mkdir)
 
 **:warning: Take Care**:
 - It is case sensitive, so make sure to use the exact command, directory, or file name.
@@ -86,4 +87,14 @@ or
 ```shell
 xdg-open /directory/directory
 ```
+----
+## :pushpin: mkdir
+**make directory**
 
+Create a new subdirectory in the current directory
+
+:computer: **Usage**
+```shell
+mkdir <directory> 
+```
+----
