@@ -8,6 +8,9 @@
     - [pwd - Print Working Directory](#pushpin-pwd)
     - [File Manager Commands](#pushpin-file-manager-commands)
     - [mkdir - Make Directory](#pushpin-mkdir)
+    - [cp - Copy](#pushpin-cp)
+    - [rm - Remove](#pushpin-rm)
+    - [mv - Move](#pushpin-mv)
 
 **:warning: Take Care**:
 - It is case sensitive, so make sure to use the exact command, directory, or file name.
@@ -96,5 +99,39 @@ Create a new subdirectory in the current directory
 :computer: **Usage**
 ```shell
 mkdir <directory> 
+```
+----
+## :pushpin: cp
+**copy**
+
+- It copies a specific file to a destination directory. 
+- To copy a whole directory, add `-r` to the command which stands for recursive  
+
+:computer: **Usage**
+```shell
+cp <source file> <destination directory>
+cp -r <source directory> <destination directory>
+```
+----
+## :pushpin: rm
+**remove**
+
+- It deletes a file that you specify
+- To delete a whole directory, add `-r` to the command which stands for recursive  
+
+:computer: **Usage**
+```shell
+rm <file>
+rm -r <directory>
+```
+----
+## :pushpin: mv
+**move**
+
+- It allows you to **rename** a file, moving it from source to destination
+
+:computer: **Usage**
+```shell
+mv <source> <destination>
 ```
 ----
